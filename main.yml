@@ -8,5 +8,4 @@
   # sudo: yes
 
   roles:
-    - common
     - nginx
